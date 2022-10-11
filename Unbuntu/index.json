@@ -1,5 +1,5 @@
 {
-    "title": "Ubuntu",
+    "title": "Install K8s Control Plane",
     "backend": {
       "imageid": "ubuntu"
     },
