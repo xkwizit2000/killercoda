@@ -1,0 +1,11 @@
+{
+    "title": "Install K8s Control Plane",
+    "backend": {
+      "imageid": "ubuntu"
+    },
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      }
+    }
+  }
